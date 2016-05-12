@@ -1,0 +1,19 @@
+Pre-Requisites:
+>  - redis
+>  - pip
+
+
+Setup
+>  Install Flask
+
+>  `pip install Flask`
+
+
+>  Install Validators
+
+>  `pip install validators`
+
+
+  Run server
+
+>  `python home.py`
