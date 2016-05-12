@@ -6,12 +6,12 @@
 
 
 ### Setup
- #### Install Flask
+#### Install Flask
 
   `pip install Flask`
 
 
-  #### Install Validators
+#### Install Validators
 
   `pip install validators`
 
