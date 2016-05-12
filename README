@@ -1,19 +1,21 @@
-Pre-Requisites:
->  - redis
->  - pip
+# Flask and Redis Url Shortener
+
+### Pre-Requisites:
+  - [x] redis
+  - [x] pip
 
 
-Setup
->  Install Flask
+### Setup
+ #### Install Flask
 
->  `pip install Flask`
-
-
->  Install Validators
-
->  `pip install validators`
+  `pip install Flask`
 
 
-  Run server
+  #### Install Validators
 
->  `python home.py`
+  `pip install validators`
+
+
+### Run server
+
+  `python home.py`
